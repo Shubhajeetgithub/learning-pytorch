@@ -5,3 +5,4 @@ BERT/*.parquet
 BERT/tokenizer*.json
 ImageSummary/flickr8k
 */*.pt
+translation/*.jsonl

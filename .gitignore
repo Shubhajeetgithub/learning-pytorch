@@ -3,3 +3,5 @@ BERT/bert-sbjt*
 BERT/*_data.txt
 BERT/*.parquet
 BERT/tokenizer*.json
+ImageSummary/flickr8k
+*/*.pt

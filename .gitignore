@@ -9,3 +9,6 @@ translation/*.jsonl
 generation/checkpoints/
 generation/data/
 generation/merged_model/
+**/*.npy
+**/*.html
+**/*.exe
